@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "dependencies": {
+    "eslint-plugin-react-hooks": "^5.0.0-next-5d60a0b84-20221006",
+    "react": "^18.2.0",
+    "redux": "^4.2.0"
+  }
+}
